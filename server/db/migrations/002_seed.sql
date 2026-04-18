@@ -1,0 +1,1 @@
+-- 002_seed.sql: Seed roles, permissions, and role_permissions mappings
